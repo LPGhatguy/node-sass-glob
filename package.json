@@ -1,6 +1,6 @@
 {
   "name": "node-sass-glob",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Globbing for node-sass!",
   "main": "index.js",
   "engines": {
